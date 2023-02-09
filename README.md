@@ -1,2 +1,11 @@
-# py_if_elif_else
- Python codes created to study the if, elif and else conditions
+## 🐍 Python - If, Elif and Else
+- **[Ex01](https://github.com/Guinzena/py_if_elif_else/blob/main/ex01.py)** <h5>Receive the value of a property, the buyer's salary, and in how many years he intends to pay, calculate the amount of the monthly installment, and if it exceeds 30% of the buyer's salary, refuse the loan.</h5>
+- **[Ex02](https://github.com/Guinzena/py_if_elif_else/blob/main/ex02.py)** <h5>Receive an integer number, and ask the user to decide what their conversion will be, binary, octal or hexadecimal.</h5>
+- **[Ex03](https://github.com/Guinzena/py_if_elif_else/blob/main/ex03.py)** <h5>Receive two numbers, and print which of the two is bigger and smaller, or if they are equal</h5>
+- **[Ex04](https://github.com/Guinzena/py_if_elif_else/blob/main/ex04.py)** <h5>Ask the wearer's year of birth, and based on that, say if he's early, late, or on time for elistment.</h5>
+- **[Ex05](https://github.com/Guinzena/py_if_elif_else/blob/main/ex05.py)** <h5>Receive the two grades of a student , and according to the average, say if he is falling(bellow 5.0), needs to go to summer school(5.0~6.9), or passed(above 7.0).</h5>
+- **[Ex06](https://github.com/Guinzena/py_if_elif_else/blob/main/ex06.py)** <h5>Receive the age of a swimmer from the federation, and say in which class he was registred. Mirim(up to 9), Childish(up to 14), Junior(up to 19), Senior(up to 20), Master(higher). </h5>
+- **[Ex07](https://github.com/Guinzena/py_if_elif_else/blob/main/ex07.py)** <h5>Receive 3 values, say if they can form a triangle, and if so, what kind of triangle is formed.</h5>
+- **[Ex08](https://github.com/Guinzena/py_if_elif_else/blob/main/ex08.py)** <h5>Make a program that reads the user's BMI, and tells which class it belongs to, underweight(18.5), ideal weigth(18.5~25), overweight(25~30), obesity(30~40), morbid obesity(over 40).</h5>
+- **[Ex09](https://github.com/Guinzena/py_if_elif_else/blob/main/ex09.py)** <h5>Make a program that reads the price of a product, and shows its price change depending on the payment method.</h5>
+- **[Ex10](https://github.com/Guinzena/py_if_elif_else/blob/main/ex10.py)** <h5>Make Jokenpô game.</h5>
