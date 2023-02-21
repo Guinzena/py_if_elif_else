@@ -4,7 +4,7 @@ price = float(input('What is the price of the product you want to buy? US$'))
 payment = int(input('What is your payment method?\n'
                     '1.Cash or cheque(US${:.2f})\n'
                     '2.1x Debit card(US${:.2f})\n'
-                    '3.2x Credit card(US${:.2f})\n'
+                    '3.Up to 2x Credit card(US${:.2f})\n'
                     '4.3x or more in Credit card(US${:.2f})\n'
                     'Choose an number: '.format(price - (price * 0.1), price - (price * 0.05), price,
                                                 price + (price * 0.2))))
